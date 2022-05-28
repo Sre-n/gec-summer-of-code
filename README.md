@@ -12,3 +12,4 @@ MediaPipe is a framework mainly used for building audio, video, or any time seri
 
 # Hand Landmark Model
 ![image](https://user-images.githubusercontent.com/92539781/170837551-e0ea3dd3-b277-4c3e-935c-027e5ae24a75.png)
+
