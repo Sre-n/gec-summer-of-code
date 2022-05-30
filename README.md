@@ -1,5 +1,7 @@
 # fossgect template-readme
 
+## HANDTRACKER USING OPENCV (AI)
+
 ## computer vision
 
 In this project as part of arch.ai we designed and developed a basic hand tracker using mediapipe and performed classification on detected hand landmark points
